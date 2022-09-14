@@ -1,1 +1,19 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="enEa0#Yjd_U2ZwD]1SIZ" x="0" y="0"></block><block type="device_forever" id="1uC[Nt._TJV2J7vvV7dS" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="(X$zF4_q_PKI!F=Jy)cL" x="0" y="0"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="T[pBp02YVoAyTaS=OdF/"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block><block type="device_button_event" id="Yu}R3**gue*b!jYqiR=k" x="282" y="205"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="V8c2lo=$-n?$g$bl85t)"><field name="LEDS">`
+        . . . . . 
+        # . # # . 
+        # # # # # 
+        # . # # . 
+        . . . . .
+        `</field></block></statement></block><block type="input_logo_event" id="/qUWHA}*6/wtoi}tWJp," x="566" y="206"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="device_print_message" id="iRTw~S(fZ~bZP((i_bE;"><value name="text"><shadow type="text" id="En#P-y3Ex/;|rm~vHzE/"><field name="TEXT">Barbra Streisand</field></shadow></value></block></statement></block><block type="device_button_event" id="7op{K4E:z,aSomSicHLf" x="-1" y="337"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="e,vnJ~fo1+hB;xNVz!sl"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        # . . . # 
+        . . . . . 
+        . # # # .
+        `</field><next><block type="device_print_message" id="34qk*%hElxnb=i,u9uL+"><value name="text"><shadow type="text" id="/IzRenL/Q6,4Um]5:Yan"><field name="TEXT">zzzzzzzzzzzzzz</field></shadow></value></block></next></block></statement></block></xml>
